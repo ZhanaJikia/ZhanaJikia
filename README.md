@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Solidity, I began to delve into the essence of economics and finance, moving towards web3 development.
 - 💞️ I’m looking to collaborate with people who are well versed in web3, who see the future in the blockchain, as well as with Solidity developers, artists nft and etc.
 - 📫 You can reach me on ⤵️ 
-      [LinkedIn](https://www.linkedin.com/in/zhana-jikia-b9648a196/)
-      [Instagram](https://www.instagram.com/zhana.tech/)
+      [LinkedIn](https://www.linkedin.com/in/zhana-jikia-b9648a196/)     [Instagram](https://www.instagram.com/zhana.tech/)
 
 <!---
 ZhanaJikia/ZhanaJikia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
