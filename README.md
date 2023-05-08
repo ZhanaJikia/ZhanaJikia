@@ -12,4 +12,4 @@ Let's Build Something Great Together 🤝
 If you're looking for a Web3 builder who's excited to make a difference, then let's link up. I'm ready to collaborate with like-minded folks and take on the world 🌎. Together, we can create something epic and change the game forever 🚀.
 
 </div>
-💼 Want to know more about my skills and past projects? Check out my LinkedIn profile: [https://www.linkedin.com/in/zhana-jikia-b9648a196/]
+💼 Want to know more about my skills and past projects? Check out my LinkedIn profile: [Click](https://www.linkedin.com/in/zhana-jikia-b9648a196/)
