@@ -1,15 +1,14 @@
 <div align="center">
-👩🏽‍💻 Web3 Builder 🚀
+  <H2>🦄 Web3 Builder and Solidity Enthusiast 🚀</H2>
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" alt="web3 gif" />
+  <img src="https://media.giphy.com/media/hrcmLhw1VYMZzDtwM0/giphy.gif" alt="web3 gif">
 </p>
-What's up, fellow builders? I'm a Web3 fanatic and smart contract wizard 🔮 with a love for React.js ⚛️. I'm ready to roll up my sleeves and build some game-changing apps.
+What's up, fellow builders? I'm a Web3 builder and Solidity enthusiast 🔥 with a background in web2 software engineering, using React and Node.js. Let's revolutionize the blockchain world and build some epic DApps!
+<H3>My Mission 🌟</H3>
+I'm all about the power of decentralized tech and its potential to create a fairer, more transparent world. With Web3, we have the chance to build trust and autonomy into our digital systems. My mission is to use my skills and experience to create impactful Web3 solutions that make a positive difference in people's lives. ✨
 
-My Passion 🌟
-I'm all about the decentralization movement! Web3 is the future of the internet, and I want to be a part of it. I believe that we can build a better world by creating apps that empower people, promote transparency, and drive real social impact.
-
-Let's Build Something Great Together 🤝
-If you're looking for a Web3 builder who's excited to make a difference, then let's link up. I'm ready to collaborate with like-minded folks and take on the world 🌎. Together, we can create something epic and change the game forever 🚀.
+<H3>Let's Build Something Great Together 🤝</H3>
+Looking for a Web3 builder who's ready to make your ideas a reality? Let's collab and create something amazing. With my expertise in Solidity and web2 software engineering, using React and Node.js, we can build decentralized apps that are efficient, secure, and user-friendly. 🔒
 
 </div>
-💼 Want to know more about my skills and past projects? Check out my LinkedIn profile: Click [here](https://www.linkedin.com/in/zhana-jikia-b9648a196/)
+💼 Wanna learn more about my skills and experience? Check out my LinkedIn profile: https://www.linkedin.com/in/zhana-jikia-b9648a196/
