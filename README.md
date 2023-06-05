@@ -1,14 +1,24 @@
 <div align="center">
-  <H2>🦄 Web3 Builder and Solidity Enthusiast 🚀</H2>
-<p align="center">
-  <img src="https://media.giphy.com/media/kL6BBTC6isRGH4YWDh/giphy.gif" alt="web3 gif">
-</p>
-What's up, fellow builders? I'm a Web3 builder and Solidity enthusiast 🔥 with a background in web2 software engineering, using React and Node.js. Let's revolutionize the blockchain world and build some epic DApps!
-<H3>My Mission 🌟</H3>
-I'm all about the power of decentralized tech and its potential to create a fairer, more transparent world. With Web3, we have the chance to build trust and autonomy into our digital systems. My mission is to use my skills and experience to create impactful Web3 solutions that make a positive difference in people's lives. ✨
+  <h2>🚀🌌 Web3 Builder and Solidity Enthusiast 🌟🌞</h2>
+  <p align="center">
+    <img src="https://media.giphy.com/media/kL6BBTC6isRGH4YWDh/giphy.gif" alt="web3 gif">
+  </p>
+  
+  "May the decentralized force be with you!" 🌠✨
 
-<H3>Let's Build Something Great Together 🤝</H3>
-Looking for a Web3 builder who's ready to make great ideas a reality? Let's collab and create something amazing. With my expertise in Solidity and web2 software engineering, using React and Node.js, we can build decentralized apps that are efficient, secure, and user-friendly. 🔒
+  What's up, fellow builders? I'm a Web3 enthusiast and Solidity explorer 🪄🔐. With a passion for creating a fairer, more transparent world, I dive into the depths of the blockchain revolution. Let's join forces and build epic DApps that leave a lasting impact! 💻🚀
 
+  <h3>My Mission 🌟🦄</h3>
+  
+  "In a galaxy of trust and autonomy, we forge the path to a brighter future." 🌍⚡️
+
+  I'm dedicated to harnessing the power of decentralized tech. With Web3, we have the opportunity to build trust and autonomy into our digital systems. Together, we can create impactful solutions that make a positive difference in people's lives. May the code be decentralized, and the possibilities be endless! ✨🌍
+
+  <h3>Let's Build Something Great Together 👾🤝</h3>
+  
+  "The Force is strong with us as we collaborate on groundbreaking projects." 🤝⚙️
+
+  Are you ready to bring great ideas to life? Join me, and together, we can create something amazing. With a deep understanding of Solidity and the web3 ecosystem, let's build efficient, secure, and user-friendly decentralized apps that defy expectations. The future is decentralized, and we are the builders of that future! 🔒🌟
+
+  💼 Curious to know more about my skills and experience? Venture into the depths of my [LinkedIn](https://www.linkedin.com/in/zhana-jikia-b9648a196) profile, you must 👩🏽‍💻
 </div>
-💼 Wanna learn more about my skills and experience? Check out my LinkedIn profile: https://www.linkedin.com/in/zhana-jikia-b9648a196/
