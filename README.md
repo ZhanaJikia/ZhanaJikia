@@ -1,7 +1,7 @@
 <div align="center">
   <H2>🦄 Web3 Builder and Solidity Enthusiast 🚀</H2>
 <p align="center">
-  <img src="https://media.giphy.com/media/hrcmLhw1VYMZzDtwM0/giphy.gif" alt="web3 gif">
+  <img src="https://media.giphy.com/media/kL6BBTC6isRGH4YWDh/giphy.gif" alt="web3 gif">
 </p>
 What's up, fellow builders? I'm a Web3 builder and Solidity enthusiast 🔥 with a background in web2 software engineering, using React and Node.js. Let's revolutionize the blockchain world and build some epic DApps!
 <H3>My Mission 🌟</H3>
