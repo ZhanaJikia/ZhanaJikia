@@ -1,12 +1,10 @@
 <div align="center">
-  <h2>🚀🌌 Web3 Builder and Solidity Enthusiast 🌟🌞</h2>
+  <h2>🚀🌌 Builder 🌟🌞</h2>
   <p align="center">
     <img src="https://media.giphy.com/media/kL6BBTC6isRGH4YWDh/giphy.gif" alt="web3 gif">
   </p>
   
   "May the decentralized force be with you!" 🌠✨
-
-  What's up, fellow builders? I'm a Web3 enthusiast and Solidity explorer 🪄🔐. With a passion for creating a fairer, more transparent world, I dive into the depths of the blockchain revolution. Let's join forces and build epic DApps that leave a lasting impact! 💻🚀
 
   <h3>My Mission 🌟🦄</h3>
   
