@@ -14,10 +14,6 @@ Focused on red team tactics, web application security, and modern exploit learni
 - TryHackMe & HackTheBox (select write-ups kept private)  
 - Learning C for exploit fundamentals
 
-## 🔒 Privacy Note
-I keep most of my cybersecurity learning private by design.  
-Happy to share details privately if you're a recruiter or collaborator.
-
 ## 📫 Contact
 [LinkedIn](https://linkedin.com/in/zhanajikia)  
 Email: zhana.jikia.1@btu.edu.ge
