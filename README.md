@@ -1,19 +1,14 @@
-# 👋 Hi, I’m Zhana
+# Zhana Jikia
 
-Former full-stack engineer now exploring the offensive security path.  
-Focused on red team tactics, web application security, and modern exploit learning.
+Junior Web Developer focused on Next.js + React + TypeScript. I ship practical product features: API integrations, SMS flows, and notifications.
 
-## 💻 Background
-- 3+ years experience building secure financial platforms (React, Node, MongoDB)
-- Integrated systems with banking & tax APIs (TBC Bank, RS.ge)
-- Led frontend/backend development without PM support
+## Featured
+### Invoice.ge (case study)
+Invoicing web app where I built:
+- rs.ge integration
+- SMS sending end-to-end (backend + frontend)
+- Notification system (status updates/reminders)
+Tech: Next.js/React • Node.js • REST APIs • Git/GitHub
 
-## 🎯 Now Studying
-- Web App Exploitation (XSS, SQLi, CSRF)  
-- Recon & OSINT tools (Nmap, Burp, Wireshark, Kali)  
-- TryHackMe & HackTheBox (select write-ups kept private)  
-- Learning C for exploit fundamentals
-
-## 📫 Contact
-[LinkedIn](https://linkedin.com/in/zhanajikia)  
-Email: zhana.jikia.1@btu.edu.ge
+## Tech
+Next.js • React • TypeScript • JavaScript • HTML/CSS • Node.js • REST APIs • Git
