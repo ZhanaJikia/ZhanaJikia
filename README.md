@@ -19,5 +19,5 @@ Tech: Next.js/React + Node.js + (DB) + REST APIs
 Next.js • React • JavaScript/TypeScript • HTML/CSS • Git/GitHub • REST APIs
 
 ## Contact
-- LinkedIn: <[Here](https://www.linkedin.com/in/zhana-jikia-b9648a196/)>
+- LinkedIn: [Here](https://www.linkedin.com/in/zhana-jikia-b9648a196/)
 - Email: <janejikia@gmail.com>
