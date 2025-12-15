@@ -1,14 +1,23 @@
 # Zhana Jikia
 
-Junior Web Developer focused on Next.js + React + TypeScript. I ship practical product features: API integrations, SMS flows, and notifications.
+Junior Web Developer focused on Next.js + React. I like shipping real product features: integrations, UI updates, bug fixes, and production-ready flows.
 
-## Featured
-### Invoice.ge (case study)
+## Featured work
+### Invoice.ge (case study / private code)
 Invoicing web app where I built:
-- rs.ge integration
-- SMS sending end-to-end (backend + frontend)
-- Notification system (status updates/reminders)
-Tech: Next.js/React • Node.js • REST APIs • Git/GitHub
+- Integration with rs.ge
+- SMS flows (backend + frontend)
+- Notification system (status updates / reminders)
+Tech: Next.js/React + Node.js + (DB) + REST APIs
+
+### Projects
+- **to-do** — React app (UI + state + component structure)
+- **my-dex** — Hardhat + frontend demo (Web3)
+- **rust_webserver** — Rust learning project
 
 ## Tech
-Next.js • React • TypeScript • JavaScript • HTML/CSS • Node.js • REST APIs • Git
+Next.js • React • JavaScript/TypeScript • HTML/CSS • Git/GitHub • REST APIs
+
+## Contact
+- LinkedIn: <[link](https://www.linkedin.com/in/zhana-jikia-b9648a196/)>
+- Email: <janejikia@gmail.com>
