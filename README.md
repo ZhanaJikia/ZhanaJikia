@@ -1,6 +1,6 @@
 # Jane
 
-Junior Web Developer focused on Next.js + React + TypeScript. I ship practical product features: API integrations, SMS flows, and notifications.
+Web Developer focused on Next.js + React + TypeScript. I ship practical product features: API integrations, SMS flows, and notifications.
 
 ## Featured
 ### Invoice.ge (case study)
