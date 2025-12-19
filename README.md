@@ -10,9 +10,8 @@ README ideas:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
-  <a href="https://YOUR-PORTFOLIO.com">Portfolio</a> •
-  <a href="mailto:YOUR@EMAIL.com">Email</a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/zhana-jikia-b9648a196/">LinkedIn</a> •
+  <a href="mailto:janejikia@gmail.com">Email</a>
 </p>
 
 ---
@@ -26,7 +25,7 @@ README ideas:
 ---
 
 ### 🧰 Tech I use
-**Languages:** TypeScript, JavaScript, (learning: Rust, Python)  
+**Languages:** TypeScript, JavaScript, Node.js (learning process: Python)  
 **Backend:** Node.js, REST APIs, auth, integrations, background jobs  
 **Frontend:** React, Next.js, Tailwind  
 **Data:** MongoDB, PostgreSQL 
@@ -34,10 +33,9 @@ README ideas:
 
 ---
 
-### 📈 GitHub stats (optional)
+### 📈 GitHub stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhanaJikia&layout=compact" />
 </p>
 
 ---
@@ -49,8 +47,8 @@ README ideas:
 ---
 
 ### 🤝 Open to
-- Backend / Full-stack roles (intern/junior → mid growth path)
+- Frontend / Full-stack / Backend roles (intern/junior → mid growth path)
 - Early-stage startups where shipping matters
 - Meaningful products with real users
 
-If you want to chat or collaborate, reach me at **YOUR@EMAIL.com**.
+If you want to chat or collaborate, reach me at **janejikia@gmail.com**.
